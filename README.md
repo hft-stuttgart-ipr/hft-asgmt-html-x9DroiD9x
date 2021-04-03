@@ -6,7 +6,7 @@
 - Replace `USERNAME` in the README.md with your Github username
 - index.html:
   - [x] Create h1 headline
-  - [ ] Create table with at least 2 dummy entries
+  - [x] Create table with at least 2 dummy entries
   - [ ] Create link to `add-entry.html`
 - add-entry.html:
   - [ ] Create h1 headline
