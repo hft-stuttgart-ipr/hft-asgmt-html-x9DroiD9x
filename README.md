@@ -7,7 +7,7 @@
 - index.html:
   - [x] Create h1 headline
   - [x] Create table with at least 2 dummy entries
-  - [ ] Create link to `add-entry.html`
+  - [x] Create link to `add-entry.html`
 - add-entry.html:
   - [ ] Create h1 headline
   - [ ] Create form with at least an `<textarea>` and an `<input>` element
