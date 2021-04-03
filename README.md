@@ -12,5 +12,5 @@
   - [x] Create h1 headline
   - [x] Create form with at least an `<textarea>` and an `<input>` element
   - [x] Create link back to `index.html`
-  - [ ] Create an input button `type="submit"` to send the form
+  - [x] Create an input button `type="submit"` to send the form
 
