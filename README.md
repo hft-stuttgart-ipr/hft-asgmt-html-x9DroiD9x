@@ -1,4 +1,4 @@
-![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-html-USERNAME/workflows/GitHub%20Classroom%20Workflow/badge.svg)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-html-x9DroiD9x/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 
 # hft-asgmt-html
 
